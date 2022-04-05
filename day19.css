@@ -1,0 +1,30 @@
+#title{
+    text-align: center;
+}
+#description{
+    text-align: center;
+}
+input{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 3px;
+    
+}
+h2{
+    text-align: center;
+}
+body{
+    overflow-x: scroll;
+}
+button:hover{
+    background-color: lightgreen;
+
+}
+button:active{
+    background-color: green;
+    color: lightgreen;
+}
+input:hover{
+    border-color:lightgreen ;
+}
